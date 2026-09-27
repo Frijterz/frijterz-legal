@@ -20,8 +20,8 @@ code, credentials, or financial data.
 After GitHub publishes the site, the Enable Banking application URLs will be:
 
 ```text
-https://jetpaction.github.io/frijterz-legal/privacy/
-https://jetpaction.github.io/frijterz-legal/terms/
+https://frijterz.github.io/frijterz-legal/privacy/
+https://frijterz.github.io/frijterz-legal/terms/
 ```
 
 Review the wording before publication. Update the notice before requesting
